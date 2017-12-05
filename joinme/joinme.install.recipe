@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Installs the latest version of join.me.</string>
 	<key>Identifier</key>
-	<string>com.github.deesweet.install.join.me</string>
+	<string>com.github.deesweet.install.joinme</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.deesweet.download.join.me</string>
+	<string>com.github.deesweet.download.joinme</string>
 	<key>Process</key>
 	<array>
 		<dict>
