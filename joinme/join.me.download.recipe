@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of join.me.</string>
 	<key>Identifier</key>
-	<string>com.github.deesweet.download.joinme</string>
+	<string>com.github.deesweet.download.join.me</string>
 	<key>Input</key>
 	<dict>
 		<key>DOWNLOAD_URL</key>
