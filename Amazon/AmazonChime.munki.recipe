@@ -21,9 +21,11 @@
 				<string>testing</string>
 			</array>
 			<key>description</key>
-			<string> </string>
+			<string>Amazon Chime is a communications service that transforms online meetings with a secure, easy-to-use application that you can trust.</string>
+			<key>category</key>
+			<string>Internet</string>
 			<key>developer</key>
-			<string>AMZN Mobile LLC</string>
+			<string>Amazon</string>
 			<key>display_name</key>
 			<string>Amazon Chime</string>
 			<key>name</key>
